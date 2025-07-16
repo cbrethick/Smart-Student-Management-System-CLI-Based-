@@ -1,0 +1,28 @@
+[
+  {
+    "id": "S1023",
+    "name": "Alice",
+    "dob": "2006-09-12",
+    "marks": {
+      "math": 95,
+      "science": 88,
+      "english": 78
+    },
+    "total": 261,
+    "average": 87.0,
+    "grade": "A"
+  },
+  {
+    "id": "S1102",
+    "name": "Bob",
+    "dob": "2006-11-01",
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 60
+    },
+    "total": 195,
+    "average": 65.0,
+    "grade": "C"
+  }
+]
